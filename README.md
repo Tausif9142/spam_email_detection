@@ -321,7 +321,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Tausif Alam**
 
 - GitHub: [@Tausif9142](https://github.com/Tausif9142)
-- Project: [spam_email_detection]()
+- Project: [spam_email_detection](https://github.com/Tausif9142/spam_email_detection)
 
 ---
 
@@ -338,7 +338,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues]() page
+1. Check the [Issues](https://github.com/Tausif9142/spam_email_detection/issues) page
 2. Create a new issue with detailed information
 3. Contact the maintainer
 
